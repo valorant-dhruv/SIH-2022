@@ -1,0 +1,7 @@
+.width-80 {
+  width: 80%;
+}
+.bg-home {
+  background-color: #f7f7f7;
+  z-index: -4;
+}

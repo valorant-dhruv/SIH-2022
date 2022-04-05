@@ -1,0 +1,39 @@
+.filter-upload {
+  padding: 1rem 4rem;
+}
+.filter {
+  position: relative;
+}
+.filter > input {
+  width: 30rem;
+  outline: none;
+  border: none;
+  padding: 1rem 0.5rem;
+  border-radius: 0.5rem;
+}
+.search {
+  position: absolute;
+  left: 27rem;
+  top: 1rem;
+}
+.upload-button {
+  background-color: #1f1f70;
+  color: white;
+  font-size: 1.2rem;
+}
+.upload-button:hover {
+  background-color: #0e0e3f;
+  color: white;
+  font-size: 1.2rem;
+}
+.upload-button > img {
+  margin-left: 1rem;
+  filter: invert(1);
+}
+.filter-icon {
+  background: white;
+  width: 4rem;
+  height: 3.5rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
